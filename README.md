@@ -38,6 +38,7 @@ It contains features such as:
 •Churn (Target variable)
 
 Methodology:
+
 1.Loaded the dataset.
 
 2.Removed irrelevant columns like Customer ID.
