@@ -1,4 +1,4 @@
-CUSTOMER CHURN PREDICTION USING ARTIFICIAL INTELLIGENCE
+CUSTOMER CHURN Analysis USING ARTIFICIAL INTELLIGENCE
 
 Intern Details:
 
@@ -8,7 +8,7 @@ Intern Details:
 
 Project Title:
 
-Customer Churn Prediction using Artificial Intelligence
+Customer Churn Analysis using Artificial Intelligence
 
 Project Scope:
 
